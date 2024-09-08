@@ -1,0 +1,9 @@
+# ignore files on global scope
+.env
+*.css
+
+# folder ignore
+/skip-folder
+
+# file within a folder ignore
+/skip-folder/inner.css
